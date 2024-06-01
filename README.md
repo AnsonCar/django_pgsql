@@ -3,13 +3,13 @@
 </p>
 <h1 align="center"><b>DataBase API</b></h1>
 
-<p align="center">Django + PostgreSQL </p>
+<p align="center">Django + DRF + PostgreSQL </p>
 <p align="center">V 0.0.1</p>
 
 ---
 
 <main style="text-align: center;">
-Example of using Django with PostgreSQL
+Example of using Django with DjangoRestFrameWork and PostgreSQL
 </main>
 
 ## Project Structure
